@@ -39,7 +39,7 @@ Below, you will find detailed information about my certifications and selected R
 
 - This Repository Contains Link to the Cousre Materials, Assignments and Projects I completed During my Certification.
 
-[IBM certificate in Data Analytics](link-to-project-3)
+[IBM certificate in Data Analytics](https://github.com/RiazMuhamad/ibm_data_analyst.git)
 
 - This Repository Contains Links to the Assignments and Projects I completed During my Certification..
 
