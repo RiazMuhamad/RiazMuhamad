@@ -43,12 +43,12 @@ Below, you will find detailed information about my certifications and selected R
 
 - This Repository Contains Links to the Assignments and Projects I completed During my Certification..
 
-[ Artificial Intelligence Basic Course From Xeven Solutions](link-to-project-3)
+[ Artificial Intelligence Basic Course From Xeven Solutions](https://github.com/RiazMuhamad/Xevencourse.git)
 
 - This Repository Contains Link to the Course Materials, Assignments and Projects I completed During my Artificial Intelligence Course.
 
 ## Contact
 
-Feel free to reach out to me via email at [riaz.muhde@gmail.com](mailto:your-email@example.com) for collaboration opportunities or further inquiries.
+Feel free to reach out to me via email at [](mailto:your-email@example.com) for collaboration opportunities or further inquiries.
 
 ------
