@@ -49,6 +49,6 @@ Below, you will find detailed information about my certifications and selected R
 
 ## Contact
 
-Feel free to reach out to me via email at [](mailto:your-email@example.com) for collaboration opportunities or further inquiries.
+Feel free to reach out to me[](mailto:your-email@example.com) for collaboration opportunities or further inquiries.
 
 ------
