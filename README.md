@@ -35,7 +35,7 @@ Below, you will find detailed information about my certifications and selected R
 - This Repository Contains Links to the Assignments and Projects I completed During my Tableau Specialization Course.
   Additionally , it includes the Dashboards I developed overtime.
 
-[Google Career Certificate in Advanced Data Analytics](link-to-project-2)
+[Google Career Certificate in Advanced Data Analytics](https://github.com/RiazMuhamad/google_data_analytics.git)
 
 - This Repository Contains Link to the Cousre Materials, Assignments and Projects I completed During my Certification.
 
