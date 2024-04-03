@@ -1,14 +1,8 @@
- ## Welcome to my data Analyst portfolio!
+ ## Welcome to my Profile!
+![5](https://github.com/RiazMuhamad/RiazMuhamad/assets/153116463/20396ba1-cdbe-42fa-9e3e-113fbaff8711)
 
-![man-working-on-his-laptop-computer-picjumbo-com](https://github.com/RiazMuhamad/RiazMuhamad/assets/153116463/894b31c5-2535-4675-af48-3029af4e7561)
+ ##  Hi, I’m Riaz Muhammad:
 
-
-
-
-
-
- ## About Me:
--  Hi, I’m Riaz Muhammad
 -  I’m interested in Data Science, Machine Learning And Deep Learning
 -  I’m currently learning Artificial Intelligence from Xeven Sloutions.
 
