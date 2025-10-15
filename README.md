@@ -3,8 +3,7 @@
 
  ##  Hi, I’m Riaz Muhammad:
 
--  I’m interested in Data Science, Machine Learning And Deep Learning
--  I’m currently learning Artificial Intelligence from Xeven Sloutions.
+-  I’m interested in Data Science, Machine Learning And Deep Learning.
 
 
 
